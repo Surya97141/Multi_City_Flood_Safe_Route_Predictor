@@ -1,4 +1,4 @@
-# 🌊 Multi-City Disaster Safe Route Predictor
+#  Multi-City Disaster Safe Route Predictor
 
 > A comprehensive disaster-aware navigation and prediction system covering **floods, cyclones, earthquakes, and landslides** across multiple Indian cities. Built as a modular ML pipeline with real-time safe route planning and interactive dashboards.
 
